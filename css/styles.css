@@ -1,0 +1,26 @@
+body {
+	font-family: Courier;
+	font-size: 20px;
+	color: #333;
+	width: 700px;
+	margin: 0 auto;
+	background-color: #333;
+}
+
+#myGame {
+	border: 5px solid #fff;
+	width: 640px;
+}
+
+#gameTitle {
+	color: #fff;
+	width: 700;
+	margin-bottom: 0;
+}
+#currentWord {
+	color: #fff;
+	width: 700;
+	font-size: 1.5em;
+	margin-bottom: 0;
+}
+
